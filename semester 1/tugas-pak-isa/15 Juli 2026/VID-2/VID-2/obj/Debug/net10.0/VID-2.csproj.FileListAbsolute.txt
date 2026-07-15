@@ -1,0 +1,14 @@
+C:\Users\LIVA\source\repos\VID-2\VID-2\bin\Debug\net10.0\VID-2.exe
+C:\Users\LIVA\source\repos\VID-2\VID-2\bin\Debug\net10.0\VID-2.deps.json
+C:\Users\LIVA\source\repos\VID-2\VID-2\bin\Debug\net10.0\VID-2.runtimeconfig.json
+C:\Users\LIVA\source\repos\VID-2\VID-2\bin\Debug\net10.0\VID-2.dll
+C:\Users\LIVA\source\repos\VID-2\VID-2\bin\Debug\net10.0\VID-2.pdb
+C:\Users\LIVA\source\repos\VID-2\VID-2\obj\Debug\net10.0\VID-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIVA\source\repos\VID-2\VID-2\obj\Debug\net10.0\VID-2.AssemblyInfoInputs.cache
+C:\Users\LIVA\source\repos\VID-2\VID-2\obj\Debug\net10.0\VID-2.AssemblyInfo.cs
+C:\Users\LIVA\source\repos\VID-2\VID-2\obj\Debug\net10.0\VID-2.csproj.CoreCompileInputs.cache
+C:\Users\LIVA\source\repos\VID-2\VID-2\obj\Debug\net10.0\VID-2.dll
+C:\Users\LIVA\source\repos\VID-2\VID-2\obj\Debug\net10.0\refint\VID-2.dll
+C:\Users\LIVA\source\repos\VID-2\VID-2\obj\Debug\net10.0\VID-2.pdb
+C:\Users\LIVA\source\repos\VID-2\VID-2\obj\Debug\net10.0\VID-2.genruntimeconfig.cache
+C:\Users\LIVA\source\repos\VID-2\VID-2\obj\Debug\net10.0\ref\VID-2.dll
