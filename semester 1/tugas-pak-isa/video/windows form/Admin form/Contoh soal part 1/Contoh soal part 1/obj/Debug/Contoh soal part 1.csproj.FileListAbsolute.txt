@@ -1,0 +1,7 @@
+F:\Kelas 10 4-2026\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.AssemblyReference.cache
+F:\Kelas 10 4-2026\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form1Login.resources
+F:\Kelas 10 4-2026\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form2register.resources
+F:\Kelas 10 4-2026\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Form3Dasboard.resources
+F:\Kelas 10 4-2026\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh_soal_part_1.Properties.Resources.resources
+F:\Kelas 10 4-2026\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.GenerateResource.cache
+F:\Kelas 10 4-2026\Contoh soal part 1\Contoh soal part 1\obj\Debug\Contoh soal part 1.csproj.CoreCompileInputs.cache
